@@ -41,6 +41,7 @@
     margin: 20px 0;
 }
 .display input{
+    padding-right:10px;
     text-align: right;
     flex: 1;
     font-size: 45px;
